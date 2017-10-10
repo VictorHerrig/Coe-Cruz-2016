@@ -1,0 +1,10 @@
+﻿  hw3.cpp
+f:\cppprojects\testcoecruz\testcoecruz\hw3.cpp(28): warning C4018: '<=': signed/unsigned mismatch
+f:\cppprojects\testcoecruz\testcoecruz\hw3.cpp(39): warning C4018: '<': signed/unsigned mismatch
+f:\cppprojects\testcoecruz\testcoecruz\hw3.cpp(44): warning C4018: '<': signed/unsigned mismatch
+f:\cppprojects\testcoecruz\testcoecruz\hw3.cpp(73): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+f:\cppprojects\testcoecruz\testcoecruz\hw3.cpp(447): warning C4018: '<': signed/unsigned mismatch
+f:\cppprojects\testcoecruz\testcoecruz\hw3.cpp(662): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+f:\cppprojects\testcoecruz\testcoecruz\hw3.cpp(669): warning C4715: 'Request::checkMatch': not all control paths return a value
+  TestCoeCruz.vcxproj -> F:\CppProjects\TestCoeCruz\Debug\TestCoeCruz.exe
+  TestCoeCruz.vcxproj -> F:\CppProjects\TestCoeCruz\Debug\TestCoeCruz.pdb (Partial PDB)
