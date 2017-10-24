@@ -1,0 +1,28 @@
+27
+RIDR Gnyte-Hawk 319-333-2222 ghawk@coe.edu
+RIDR Gap-Guy 319-333-4444 gap.guy@yahoo.com
+RIDR Ann-Arbor 319-333-6666 aarbor@gmail.com
+RIDR Joe-Pardy 319-333-5555 joepardy@gmail.com
+DRVR Dez-Moyen 319-333-8888 dez21@yahoo.com
+DRVR Gnyte-Hawk 319-333-2222 gnyte-hawk@gmail.com
+DRVR Lou-Water 319-333-7777 louis2@gmail.com
+DRVR Rocky-Land 319-333-7654 rocky@gmail.com
+DRVR Betty-Dorf 319-333-1111 bettin@gmail.com
+DRVR Al-Burnett 319-333-8765 big-al@gmail.com
+DRVR Davin-Port 319-333-1234 davindavin@gmail.com
+DRVR Moe-Lean 319-333-2345 mlean@gmail.com
+REQU 10/30/16 18:15 Ann-Arbor  Coe-Campus  CID-Airport  2
+REQU 10/30/16 14:40 Gap-Guy    Coe-Campus  Lindale-Mall 1
+REQU 10/31/16 23:30 Joe-Pardy  Coe-Campus  IC-Ped-Mall  1
+TOFR 10/30/16 18:25 Dez-Moyen   Coe-Campus   CID-Airport 3
+TOFR 10/30/16 13:00 Betty-Dorf  Coe-Campus   CID-Airport 2
+TOFR 10/31/16 22:30 Betty-Dorf  Coe-Campus   IC-Ped-Mall 4
+TOFR 10/30/16 18:00 Lou-Water   Coe-Campus   CID-Airport 1
+TOFR 11/01/16 00:15 Gnyte-Hawk  Coe-Campus   IC-Ped-Mall 2
+TOFR 10/30/16 19:00 Lou-Water   CID-Airport  Coe-Campus  2
+TOFR 10/30/16 15:00 Betty-Dorf  Coe-Campus   Rockwell    4
+ONCL Al-Burnett  Coe-Campus   CID-Airport 3  18.00
+ONCL Al-Burnett  Coe-Campus   IC-Ped-Mall 3  24.99
+ONCL Davin-Port  Coe-Campus   CID-Airport 4  15.00
+ONCL Davin-Port  Coe-Campus   IC-Ped-Mall 4  25.00
+ONCL Moe-Lean    Coe-Campus   CID-Airport 1  10.00

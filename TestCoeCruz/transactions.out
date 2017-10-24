@@ -1,5 +1,51 @@
 Rider accounts: 
+Ann-Arbor   319-333-6666    
+Gap-Guy   319-333-4444    
+Gnyte-Hawk   319-333-2222    
+Joe-Pardy   319-333-5555    
 Driver accounts: 
+Al-Burnett   319-333-8765    
+Betty-Dorf   319-333-1111    
+Davin-Port   319-333-1234    
+Dez-Moyen   319-333-8888    
+Gnyte-Hawk   319-333-2222    
+Lou-Water   319-333-7777    
+Moe-Lean   319-333-2345    
+Rocky-Land   319-333-7654    
 Requests for rides: 
+10/30/16 2:40:00PM Gap-Guy Coe-Campus Lindale-Mall 1
+10/31/16 11:30:00PM Joe-Pardy Coe-Campus IC-Ped-Mall 1
+10/30/16 6:15:00PM Ann-Arbor Coe-Campus CID-Airport 2
+
+Offers (time-specific) for rides: 
+10/30/16 1:00:00PM Betty-Dorf Coe-Campus CID-Airport 2
+10/30/16 6:00:00PM Lou-Water Coe-Campus CID-Airport 1
+11/1/16 12:15:00AM Gnyte-Hawk Coe-Campus IC-Ped-Mall 2
+10/31/16 10:30:00PM Betty-Dorf Coe-Campus IC-Ped-Mall 4
+10/30/16 3:00:00PM Betty-Dorf Coe-Campus Rockwell 4
+10/30/16 7:00:00PM Lou-Water CID-Airport Coe-Campus 2
+10/30/16 6:25:00PM Dez-Moyen Coe-Campus CID-Airport 3
+On call offers for rides: 
+Davin-Port Coe-Campus IC-Ped-Mall 4 $25.00
+Moe-Lean Coe-Campus CID-Airport 1 $10.00
+Al-Burnett Coe-Campus CID-Airport 3 $18.00
+Al-Burnett Coe-Campus IC-Ped-Mall 3 $24.99
+Davin-Port Coe-Campus CID-Airport 4 $15.00
 Ride matches: 
+
+Gap-Guy ride for 1 from Coe-Campus to Lindale-Mall on 10/30/16 at time 2:40:00PM
+Sorry, no matches found.
+
+Joe-Pardy ride for 1 from Coe-Campus to IC-Ped-Mall on 10/31/16 at time 11:30:00PM
+4 matches found!
+#1 Ride with Betty-DorfBetty-Dorf - leaving on 10/31/16 at 10:30:00PM - 4 seats available
+#2 Ride with Gnyte-HawkGnyte-Hawk - leaving on 11/1/16 at 12:15:00AM - 2 seats available
+#3 Ride with Al-BurnettAl-Burnett - 3 seats available anytime at $24.99
+#4 Ride with Davin-PortDavin-Port - 4 seats available anytime at $25.00
+
+Ann-Arbor ride for 2 from Coe-Campus to CID-Airport on 10/30/16 at time 6:15:00PM
+3 matches found!
+#1 Ride with Dez-MoyenDez-Moyen - leaving on 10/30/16 at 6:25:00PM - 3 seats available
+#2 Ride with Al-BurnettAl-Burnett - 3 seats available anytime at $18.00
+#3 Ride with Davin-PortDavin-Port - 4 seats available anytime at $15.00
 
